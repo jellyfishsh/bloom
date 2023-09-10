@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -139,15 +139,30 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "9aca3643a7f5c880",
+  "active": "d53cde25bd23db04",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
+    "Resources/Writeups.md",
+    "Resources/Books.md",
+    "Resources/Tools.md",
+    "Writeups/Over The Wire/Bandit",
+    "Writeups/Over The Wire",
+    "Writeups/Hack The Box",
+    "Resources/Sites.md",
+    "Resources/Articles.md",
+    "Untitled.md",
+    "Notes",
+    "Writeups",
+    "Resources",
+    "Tools",
     "CNAME"
   ]
 }
