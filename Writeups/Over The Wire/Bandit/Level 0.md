@@ -9,12 +9,14 @@ This is more of an experiment with making comprehensive writeups, so the format 
 
 Level 0 of the Bandit wargame is a setup to doing all of the other challenges, and is the "barrier of entry" for all the other wargames on this site.
 
-Because of this, the bar is set low, as the only challenge is understanding how to use the terminal to connect to another computer across the internet. 
+Because of this, the bar is set low, as the only challenge is understanding how to use the terminal to connect to another computer across the internet.
+
+This writeup assumes you have an operable Linux system in some shape or form.
 ## Using SSH
 
 SSH (or Secure Shell) is a command that allows you to remotely log onto another computer over the internet using TCP. It encrypts the traffic between the two computers, hence the secure.
 
-The ssh command, written as just `ssh`, generally requires an host address and a username, written in the format:
+The SSH command, written as just `ssh`, generally requires an host address and a username, written in the format:
 
 `ssh <username>@<IP address>`
 
