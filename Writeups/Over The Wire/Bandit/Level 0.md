@@ -4,7 +4,7 @@ Yet here we are. So why?
 
 This is more of an experiment with making comprehensive writeups, so the format may change for this whole wargame challenge set until an acceptable format reveals itself to me.
 
-**Note:** I really, **really** do suggest you try and go through this yourself. Its extremely easy and is really designed as a first-time learner's way to gather information and look things up.
+**Note: I really, REALLY do suggest you try and go through this yourself. Its extremely easy and is really designed as a first-time learner's way to gather information and look things up. **
 ___
 
 # Intro
@@ -32,7 +32,7 @@ You can use the wikiHow link that tells you what the keyword is for specifying a
 
 In the Description section, there is a list of helpful keywords, or flags, to specify a certain value in the command. Reading through this list shows the entry for port.
 
-![[Pasted image 20230912215334.png]]
+`-p port: Port to connect to on the remote host. This can be specified on a per-host basis in the configuration file.`
 
 With this information, we can write out our full command. Using the provided username, password, host address, and port, we can write the command:
 
