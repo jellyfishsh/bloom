@@ -1,9 +1,10 @@
-This is an easy level challenge that I started out with a loooong time ago. So easy, in fact, that it would be a waste to do a writeup on it, as it takes little to no effort. The level page even has helpful reading material.
+This is an easy level challenge that I started out with a loooong time ago. So easy, in fact, that it would be a waste to do a writeup on it, as it takes little to no effort. 
 
 Yet here we are. So why?
 
-This is more of an experiment with making comprehensive writeups, so the format may change for this whole lab until an acceptable format reveals itself.
+This is more of an experiment with making comprehensive writeups, so the format may change for this whole wargame until an acceptable format reveals itself.
 
+**Note:** I really, **really** do suggest you try and go through this yourself. Its extremely easy and is really designed as a first-time learner's way to gather information and look things up.
 ## Intro
 
 Level 0 of the Bandit wargame is a setup to doing all of the other challenges, and is the "barrier of entry" for all the other wargames on this site.
@@ -32,3 +33,6 @@ With this information, we can write out our full command. Using the provided use
 
 `ssh <username>@<host address> -p <port number>`
 
+Since its (probably) the first time the local host (us) has logged onto the remote host (the challenge), we need to accept the authenticity check.
+
+After we do that, we are asked for a password. Entering the password, we can finally access the remote host, and complete the pre-challenge level 0.
