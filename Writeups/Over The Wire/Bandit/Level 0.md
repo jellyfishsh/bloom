@@ -1,6 +1,34 @@
-This is an easy level challenge. So easy, in fact, that it would be a waste to do a writeup on it.
+This is an easy level challenge that I started out with a loooong time ago. So easy, in fact, that it would be a waste to do a writeup on it, as it takes little to no effort. The level page even has helpful reading material.
 
-Yet here we are.
+Yet here we are. So why?
 
+This is more of an experiment with making comprehensive writeups, so the format may change for this whole lab until an acceptable format reveals itself.
+
+## Intro
+
+Level 0 of the Bandit wargame is a setup to doing all of the other challenges, and is the "barrier of entry" for all the other wargames on this site.
+
+Because of this, the bar is set low, as the only challenge is understanding how to use the terminal to connect to another computer across the internet. 
 ## Using SSH
-The objective of this lab
+
+SSH (or Secure Shell) is a command that allows you to remotely log onto another computer over the internet using TCP. It encrypts the traffic between the two computers, hence the secure.
+
+The ssh command, written as just `ssh`, generally requires an IP and a username, written in the format:
+
+`ssh <username>@<IP address>`
+
+SSH has the default port of 22, so in base cases, a port does not need to be specified. However, this challenge requires you to use port 2220. So we must define to the command what port to use.
+
+### Using man
+You can use the wikiHow link that tells you what the keyword is for specifying a port. However, you can also read the manual page of this command to see all the options that you have for this command:
+
+`man ssh`
+
+In the Description section, there is a list of helpful keywords, or flags, to specify a certain value in the command. Reading through this list shows the entry for port.
+
+![[Pasted image 20230912215334.png]]
+
+With this information, we can 
+``
+
+
