@@ -30,3 +30,5 @@ In the Description section, there is a list of helpful keywords, or flags, to sp
 
 With this information, we can write out our full command. Using the provided username, password, host address, and port, we can write the command:
 
+`ssh <username>@<host address> -p <port number>`
+
