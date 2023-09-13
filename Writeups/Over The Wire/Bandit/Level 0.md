@@ -2,9 +2,11 @@ This is an easy level challenge that I started out with a loooong time ago. So e
 
 Yet here we are. So why?
 
-This is more of an experiment with making comprehensive writeups, so the format may change for this whole wargame until an acceptable format reveals itself.
+This is more of an experiment with making comprehensive writeups, so the format may change for this whole wargame challenge set until an acceptable format reveals itself to me.
 
 **Note:** I really, **really** do suggest you try and go through this yourself. Its extremely easy and is really designed as a first-time learner's way to gather information and look things up.
+___
+
 # Intro
 
 Level 0 of the Bandit wargame is a setup to doing all of the other challenges, and is the "barrier of entry" for all the other wargames on this site.
