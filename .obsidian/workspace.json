@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Over The Wire/Bandit/Level 0.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Over The Wire/Bandit/Level 0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Over The Wire/Bandit/Level 0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Over The Wire/Bandit/Level 0.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d53cde25bd23db04",
+  "active": "9aca3643a7f5c880",
   "lastOpenFiles": [
-    "Untitled",
-    "Writeups/Over The Wire/Bandit/Level 1.md",
     "Writeups/Over The Wire/Bandit/Level 0.md",
-    "Pasted image 20230912215334.png",
+    "Attachments/Pasted image 20230912215334.png",
+    "Attachments",
+    "Writeups/Over The Wire/Bandit/Level 1.md",
     "README.md",
     "Untitled.canvas",
     "Resources/Writeups.md",
