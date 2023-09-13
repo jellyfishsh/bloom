@@ -13,7 +13,7 @@ Because of this, the bar is set low, as the only challenge is understanding how 
 
 SSH (or Secure Shell) is a command that allows you to remotely log onto another computer over the internet using TCP. It encrypts the traffic between the two computers, hence the secure.
 
-The ssh command, written as just `ssh`, generally requires an IP and a username, written in the format:
+The ssh command, written as just `ssh`, generally requires an host address and a username, written in the format:
 
 `ssh <username>@<IP address>`
 
@@ -28,7 +28,5 @@ In the Description section, there is a list of helpful keywords, or flags, to sp
 
 ![[Pasted image 20230912215334.png]]
 
-With this information, we can 
-``
-
+With this information, we can write out our full command. Using the provided username, password, host address, and port, we can write the command:
 
