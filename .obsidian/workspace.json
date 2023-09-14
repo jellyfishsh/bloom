@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion.md",
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion.md",
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion.md",
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion.md"
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md"
               }
             }
           },
@@ -159,7 +159,7 @@
   "active": "1dd1d689928a16d0",
   "lastOpenFiles": [
     "Writeups/Over The Wire/Bandit/Level 1.md",
-    "Writeups/Hack The Box/Easy/TwoMillion.md",
+    "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
     "Writeups/Hack The Box/Easy",
     "Writeups/Hack The Box/Untitled.md",
     "Writeups/PicoCTF",
