@@ -1,0 +1,6 @@
+[book]
+authors = ["jellyfishsh"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bloom"
