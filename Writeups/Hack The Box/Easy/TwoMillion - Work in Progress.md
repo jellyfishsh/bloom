@@ -15,3 +15,5 @@ The address for my box is `10.10.11.221` . We can check any open ports and servi
 For context:
 * `-sc` runs the default nse scripts for nmap, which do a plethora of things, like detecting vulnerabilities and checking for default settings on certain services
 * `-sV` enables service detection, which lists informaiton about the services running on the ports specified.
+* `-Pn` skips the ping sweep, which is used for host discovery.
+
