@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "944956880282d43f",
+        "id": "d0b6fd7dc8963efd",
         "type": "tabs",
         "children": [
           {
-            "id": "9aca3643a7f5c880",
+            "id": "1dd1d689928a16d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
-                "mode": "preview",
+                "file": "Writeups/Hack The Box/Easy/TwoMillion.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "acff5af76101467f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "Writeups/Hack The Box/Easy/TwoMillion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "Writeups/Hack The Box/Easy/TwoMillion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "Writeups/Hack The Box/Easy/TwoMillion.md"
               }
             }
           },
@@ -167,11 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acff5af76101467f",
+  "active": "1dd1d689928a16d0",
   "lastOpenFiles": [
+    "Writeups/Over The Wire/Bandit/Level 1.md",
+    "Writeups/Hack The Box/Easy/TwoMillion.md",
+    "Writeups/Hack The Box/Easy",
+    "Writeups/Hack The Box/Untitled.md",
+    "Writeups/PicoCTF",
+    "Writeups/Hack The Box",
+    "src/SUMMARY.md",
     "src/chapter_1.md",
     "Writeups/Over The Wire/Bandit/Level 0.md",
-    "src/SUMMARY.md",
     "Resources/Articles.md",
     "book.toml",
     "book",
@@ -184,14 +179,10 @@
     "Attachments/Pasted image 20230912215334.png",
     "Attachments/Pasted image 20230912222910.png",
     "Attachments",
-    "Writeups/Over The Wire/Bandit/Level 1.md",
     "Untitled.canvas",
     "Writeups/Over The Wire/Bandit",
     "Writeups/Over The Wire",
     "Writeups/Hack The Box",
-    "Untitled.md",
-    "Notes",
-    "Writeups",
-    "Resources"
+    "Untitled.md"
   ]
 }
