@@ -4,22 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b6fd7dc8963efd",
+        "id": "944956880282d43f",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd1d689928a16d0",
+            "id": "9aca3643a7f5c880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
-                "mode": "source",
+                "file": "src/SUMMARY.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "acff5af76101467f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +148,7 @@
             }
           },
           {
-            "id": "0b001addaf099b6a",
+            "id": "fbbbb2bf56e3410c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -164,26 +172,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d53cde25bd23db04",
+  "active": "acff5af76101467f",
   "lastOpenFiles": [
-    "Writeups/Over The Wire/Bandit/Level 1.md",
     "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
+    "Resources/Articles.md",
+    "Resources/Writeups.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Writeups/Over The Wire/Bandit/Level 1.md",
     "Writeups/Hack The Box/Easy",
-    "Writeups/Hack The Box/Untitled.md",
-    "Writeups/PicoCTF",
-    "Writeups/Hack The Box",
-    "src/SUMMARY.md",
+    "Resources/Tools.md",
+    "Resources/Books.md",
     "src/chapter_1.md",
     "Writeups/Over The Wire/Bandit/Level 0.md",
-    "Resources/Articles.md",
+    "src/SUMMARY.md",
     "book.toml",
     "book",
     "src",
-    "Resources/Books.md",
     "Resources/Sites.md",
-    "Resources/Tools.md",
-    "Resources/Writeups.md",
-    "README.md",
     "Attachments/Pasted image 20230912215334.png",
     "Attachments/Pasted image 20230912222910.png",
     "Attachments",
@@ -191,6 +197,8 @@
     "Writeups/Over The Wire/Bandit",
     "Writeups/Over The Wire",
     "Writeups/Hack The Box",
-    "Untitled.md"
+    "Untitled.md",
+    "Notes",
+    "Writeups"
   ]
 }

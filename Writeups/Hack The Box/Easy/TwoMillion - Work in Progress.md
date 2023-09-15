@@ -17,4 +17,4 @@ For context:
 * `-sV` enables service detection, which lists informaiton about the services running on the ports specified.
 * `-Pn` skips the ping sweep, which is used for host discovery.
 
-quick test but again 
+quick test but again but again
