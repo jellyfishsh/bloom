@@ -31,4 +31,10 @@ Adding 2million.htb to our `/etc/hosts`, we can reload our browser and check the
 
 *I wanna put a picture, but... I dont exactly know how :(. So lets pretend there was a picture for now*
 
-It kinda looks like an older version of the current Hack The Box website. Scrolling down the webpage, we can see that there's a Join section, which leads to an invite page
+It kinda looks like an older version of the current Hack The Box website. Scrolling down the webpage, we can see that there's a Join section, which leads to an invite page.
+
+Under the invite page, there is a link to the login page. With that, there are two things to check for vulnerabilities. I'll check the first one and see.
+
+Putting something incorrect into the invite page gives us a web alert that tells us incorrect password.
+
+Using Wappalyzer, we can check that the language of the site is PHP, which is useful information for finding a vulnerability.
