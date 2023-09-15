@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "944956880282d43f",
+        "id": "d0b6fd7dc8963efd",
         "type": "tabs",
         "children": [
           {
-            "id": "9aca3643a7f5c880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/SUMMARY.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acff5af76101467f",
+            "id": "1dd1d689928a16d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +140,7 @@
             }
           },
           {
-            "id": "fbbbb2bf56e3410c",
+            "id": "0b001addaf099b6a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,24 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acff5af76101467f",
+  "active": "d53cde25bd23db04",
   "lastOpenFiles": [
-    "Resources/Articles.md",
-    "Resources/Writeups.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
     "Writeups/Over The Wire/Bandit/Level 1.md",
     "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
     "Writeups/Hack The Box/Easy",
-    "Resources/Tools.md",
-    "Resources/Books.md",
+    "Writeups/Hack The Box/Untitled.md",
+    "Writeups/PicoCTF",
+    "Writeups/Hack The Box",
+    "src/SUMMARY.md",
     "src/chapter_1.md",
     "Writeups/Over The Wire/Bandit/Level 0.md",
-    "src/SUMMARY.md",
+    "Resources/Articles.md",
     "book.toml",
     "book",
     "src",
+    "Resources/Books.md",
     "Resources/Sites.md",
+    "Resources/Tools.md",
+    "Resources/Writeups.md",
+    "README.md",
     "Attachments/Pasted image 20230912215334.png",
     "Attachments/Pasted image 20230912222910.png",
     "Attachments",
@@ -202,8 +191,6 @@
     "Writeups/Over The Wire/Bandit",
     "Writeups/Over The Wire",
     "Writeups/Hack The Box",
-    "Untitled.md",
-    "Notes",
-    "Writeups"
+    "Untitled.md"
   ]
 }
