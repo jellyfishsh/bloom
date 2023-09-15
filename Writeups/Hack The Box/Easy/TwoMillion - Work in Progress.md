@@ -37,4 +37,7 @@ Under the invite page, there is a link to the login page. With that, there are t
 
 Putting something incorrect into the invite page gives us a web alert that tells us incorrect password.
 
-Using Wappalyzer, we can check that the language of the site is PHP, which is useful information for finding a vulnerability.
+This looks fishy, so I am going to check this process under Burp Suite to see what I find.
+
+## Burp Suite
+Running the dummy invite request again through Burp Suite's proxy shows that 
