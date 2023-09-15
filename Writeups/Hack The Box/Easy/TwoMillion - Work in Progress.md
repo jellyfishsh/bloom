@@ -40,4 +40,6 @@ Putting something incorrect into the invite page gives us a web alert that tells
 This looks fishy, so I am going to check this process under Burp Suite to see what I find.
 
 ## Burp Suite
-Running the dummy invite request again through Burp Suite's proxy shows that 
+Running the dummy invite request again through Burp Suite's proxy shows that the invite page is checking our input. However, I also noticed that we have been given a cookie named PHPSESSID. 
+
+Checking online for PHPSESSID exploits, most of the results
