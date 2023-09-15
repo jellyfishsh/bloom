@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b6fd7dc8963efd",
+        "id": "944956880282d43f",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd1d689928a16d0",
+            "id": "9aca3643a7f5c880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/SUMMARY.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acff5af76101467f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +151,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "fbbbb2bf56e3410c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,26 +177,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dd1d689928a16d0",
+  "active": "acff5af76101467f",
   "lastOpenFiles": [
+    "Resources/Articles.md",
+    "Resources/Writeups.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Writeups/Over The Wire/Bandit/Level 1.md",
     "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
     "Writeups/Hack The Box/Easy",
-    "Writeups/Hack The Box/Untitled.md",
-    "Writeups/PicoCTF",
-    "Writeups/Hack The Box",
-    "src/SUMMARY.md",
+    "Resources/Tools.md",
+    "Resources/Books.md",
     "src/chapter_1.md",
     "Writeups/Over The Wire/Bandit/Level 0.md",
-    "Resources/Articles.md",
+    "src/SUMMARY.md",
     "book.toml",
     "book",
     "src",
-    "Resources/Books.md",
     "Resources/Sites.md",
-    "Resources/Tools.md",
-    "Resources/Writeups.md",
-    "README.md",
     "Attachments/Pasted image 20230912215334.png",
     "Attachments/Pasted image 20230912222910.png",
     "Attachments",
@@ -183,6 +202,8 @@
     "Writeups/Over The Wire/Bandit",
     "Writeups/Over The Wire",
     "Writeups/Hack The Box",
-    "Untitled.md"
+    "Untitled.md",
+    "Notes",
+    "Writeups"
   ]
 }
