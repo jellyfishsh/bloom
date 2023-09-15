@@ -29,3 +29,6 @@ There is a webserver on the system. Requesting the IP address on our browser lea
 
 Adding 2million.htb to our `/etc/hosts`, we can reload our browser and check the website again, showing this page:
 
+*I wanna put a picture, but... I dont exactly know how :(. So lets pretend there was a picture for now*
+
+
