@@ -17,4 +17,12 @@ For context:
 * `-sV` enables service detection, which lists informaiton about the services running on the ports specified.
 * `-Pn` skips the ping sweep, which is used for host discovery.
 
-quick test but again but again
+There are two open ports:
+
+```
+port 22/tcp ssh OpenSSH 8.9p1 Ubuntu 3ubuntu0.1
+80/tcp http nginx
+	Redirects to 2million.htb/
+```
+
+There is a webserver on the system. Requesting the IP address on our browser leads to a black screen. However, from prior experience, this means that the webserver is not resolving the link. 

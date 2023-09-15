@@ -23,10 +23,11 @@
             "id": "acff5af76101467f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md"
+              }
             }
           },
           {
@@ -160,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acff5af76101467f",
+  "active": "fbbbb2bf56e3410c",
   "lastOpenFiles": [
     "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
     "Resources/Articles.md",
