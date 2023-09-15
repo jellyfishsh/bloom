@@ -23,9 +23,11 @@
             "id": "acff5af76101467f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,17 +171,17 @@
   },
   "active": "acff5af76101467f",
   "lastOpenFiles": [
+    "Resources/Tools.md",
+    "Resources/Books.md",
+    "Resources/Articles.md",
+    "Resources/Writeups.md",
     "src/chapter_1.md",
     "Writeups/Over The Wire/Bandit/Level 0.md",
     "src/SUMMARY.md",
-    "Resources/Articles.md",
     "book.toml",
     "book",
     "src",
-    "Resources/Books.md",
     "Resources/Sites.md",
-    "Resources/Tools.md",
-    "Resources/Writeups.md",
     "README.md",
     "Attachments/Pasted image 20230912215334.png",
     "Attachments/Pasted image 20230912222910.png",
