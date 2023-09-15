@@ -25,4 +25,7 @@ port 22/tcp ssh OpenSSH 8.9p1 Ubuntu 3ubuntu0.1
 	Redirects to 2million.htb/
 ```
 
-There is a webserver on the system. Requesting the IP address on our browser leads to a black screen. However, from prior experience, this means that the webserver is not resolving the link. 
+There is a webserver on the system. Requesting the IP address on our browser leads to a black screen. However, from prior experience, this means that the webserver is not resolving the link. Some webservers can run multiple websites on the same IP address, and depending on what the GET request says, it can load that associated host name. Since we just used the IP, it will not resolve ANY webpage, even though there is presumably only one website running.
+
+Adding 2million.htb to our `/etc/hosts`, we can reload our browser and check the website again, showing this page:
+
