@@ -41,5 +41,8 @@ This looks fishy, so I am going to check this process under Burp Suite to see wh
 
 ## Burp Suite
 Running the dummy invite request again through Burp Suite's proxy shows that the invite page is checking our input. However, I also noticed that we have been given a cookie named PHPSESSID. 
+In addition, the response from the server when we send random data to the invite page also includes code on the bottom of the page, which includes the code to show how it sends us the web alert, including the information that it is an .ajax code.
 
-Checking online for PHPSESSID exploits, most of the results
+With this, there are two forseen paths:
+* There is a vulnerability within the PHPSESSID cookie, or
+* There is a vulnerability within the jquery ajax code.
