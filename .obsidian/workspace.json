@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Tools/Web/Ferox Buster.md",
+                "file": "Resources/Sites.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tools/Web/Ferox Buster.md",
+                "file": "Resources/Sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tools/Web/Ferox Buster.md",
+                "file": "Resources/Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tools/Web/Ferox Buster.md"
+                "file": "Resources/Sites.md"
               }
             }
           },
@@ -179,19 +179,19 @@
   },
   "active": "acff5af76101467f",
   "lastOpenFiles": [
-    "Resources/Tools.md",
+    "Resources/Books.md",
+    "Resources/Articles.md",
     "Resources/Tools/Web/Ferox Buster.md",
+    "Resources/Tools.md",
     "Resources/Tools/Web",
     "Resources/Tools/OSINT",
     "Resources/Tools",
     "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
-    "Resources/Articles.md",
     "Resources/Writeups.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Writeups/Over The Wire/Bandit/Level 1.md",
     "Writeups/Hack The Box/Easy",
-    "Resources/Books.md",
     "src/chapter_1.md",
     "Writeups/Over The Wire/Bandit/Level 0.md",
     "src/SUMMARY.md",
