@@ -46,3 +46,4 @@ In addition, the response from the server when we send random data to the invite
 With this, there are two forseen paths:
 * There is a vulnerability within the PHPSESSID cookie, or
 * There is a vulnerability within the jquery ajax code.
+
