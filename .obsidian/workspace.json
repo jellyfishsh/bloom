@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56a35e238f7a50d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbbbb2bf56e3410c",
+  "active": "56a35e238f7a50d1",
   "lastOpenFiles": [
     "Writeups/Hack The Box/Easy/TwoMillion - Work in Progress.md",
     "Resources/Articles.md",
