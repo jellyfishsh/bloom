@@ -30,14 +30,12 @@
             }
           },
           {
-            "id": "f1796ffaccbea000",
+            "id": "06267fb9d46bc29f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.14"
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d53cde25bd23db04",
+  "active": "06267fb9d46bc29f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Resources/Tools/Web/Ferox Buster.md",
